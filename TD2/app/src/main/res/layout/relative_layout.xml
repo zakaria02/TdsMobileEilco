@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+    android:id="@+id/button2"
+    android:layout_width="70dp"
+    android:layout_height="50dp"
+    android:layout_alignParentRight="true"
+    android:layout_centerInParent="true"
+    android:layout_centerVertical="true"
+    android:text="BTN2" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button2"
+        android:layout_marginTop="50dp"
+        android:text="BTN5" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/button2"
+        android:layout_marginTop="50dp"
+        android:layout_toLeftOf="@+id/button5"
+        android:text="BTN1" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/button2"
+        android:layout_marginTop="50dp"
+        android:layout_toLeftOf="@+id/button1"
+        android:text="BTN3" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/button3"
+        android:layout_marginTop="50dp"
+        android:layout_toLeftOf="@+id/button5"
+        android:text="BTN3" />
+
+</RelativeLayout>
