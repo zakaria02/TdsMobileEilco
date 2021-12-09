@@ -5,16 +5,18 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class DetailsActivity : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_details)
+        setContentView(R.layout.activity_login)
         setTitle(getLocalClassName())
 
-        var okButton = findViewById<Button>(R.id.okButton)
+        var loginButton = findViewById<Button>(R.id.loginButton)
 
-        okButton.setOnClickListener{
+        loginButton.setOnClickListener{
+            val intent = Intent(this, NewsActivity::class.java)
+            startActivity(intent)
             finish()
-        } 
+        }
     }
 }
