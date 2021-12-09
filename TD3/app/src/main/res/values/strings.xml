@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD3</string>
+    <string name="roll">Lancé le Dé</string>
+    <string name="desFaces">Nombre de face des dès</string>
+</resources>
