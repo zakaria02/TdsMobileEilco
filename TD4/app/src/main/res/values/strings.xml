@@ -4,4 +4,6 @@
     <string name="details">Details</string>
     <string name="logout">Logout</string>
     <string name="ok">Ok</string>
+    <string name="about">ABOUT</string>
+    <string name="username">Nom d\'utilisateur</string>
 </resources>
