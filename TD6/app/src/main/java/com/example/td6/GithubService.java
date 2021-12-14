@@ -8,7 +8,6 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 public interface GithubService {
-
     public static final String ENDPOINT = "https://api.github.com";
 
     @GET("/users/{user}/repos")
