@@ -3,4 +3,13 @@
     <string name="popular">Popular</string>
     <string name="up_coming">Up Coming</string>
     <string name="movie_picture">Movie Picture</string>
+    <string name="title_activity_details_movie">details_movie</string>
+    <string name="image_du_film">Image du film</string>
+    <string name="release_date">Release Date : </string>
+    <string name="genres">Genres :</string>
+    <string name="search">Search</string>
+    <string name="movie_name">Movie name</string>
+    <string name="please_make_a_choice">Please Make a choice</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
 </resources>

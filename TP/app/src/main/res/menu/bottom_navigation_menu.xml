@@ -9,4 +9,15 @@
         android:enabled="true"
         android:icon="@android:drawable/ic_dialog_dialer"
         android:title="@string/up_coming" />
+
+    <item
+        android:id="@+id/search_page"
+        android:enabled="true"
+        android:icon="?android:attr/actionModeWebSearchDrawable"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/favorite_page"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/favorite" />
 </menu>

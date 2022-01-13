@@ -5,10 +5,14 @@
       <map>
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13541666666666666" />
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/activity_details_movie.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/activity_home.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/activity_language.xml" value="0.2" />
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/activity_main.xml" value="0.11680121089808275" />
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/activity_popular.xml" value="0.11510416666666666" />
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/activity_up_coming.xml" value="0.19384057971014493" />
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/movi_item.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/layout/movie_item.xml" value="0.1" />
         <entry key="..\:/Users/zakar/OneDrive/Desktop/Zakaria/tp_mobile/TP/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.24114583333333334" />
       </map>
     </option>

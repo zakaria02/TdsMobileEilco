@@ -1,5 +1,4 @@
 package com.example.tp;
-
 import java.io.Serializable;
 import java.util.List;
 
@@ -66,5 +65,14 @@ public class Movie implements Serializable {
 
     public void setTitle(String title) {
         this.title = title;
+    }
+
+    public boolean equals(Movie movie){
+        return this.id == movie.id &&
+                this.poster_path.equals(movie.poster_path) &&
+                this.backdrop_path.equals(movie.backdrop_path) &&
+                this.overview.equals(movie.overview) &&
+                this.title.equals(movie.title) &&
+                this.release_date.equals(movie.release_date);
     }
 }
